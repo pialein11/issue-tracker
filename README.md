@@ -1,2 +1,5 @@
 # issue-tracker
-Kurs Repository für Software Engineering 22026. Ein Issue Tracker.
+
+
+Simple App für das Erfassen/Ändern/.. von Issues mit Hilfe von Python.
+
